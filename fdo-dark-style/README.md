@@ -1,4 +1,4 @@
-# The Need for a FreeDesktop.org Dark Style Preference
+# The Need for a FreeDesktop Dark Style Preference
 
 - [Notes](notes)
 - [Original blog post](https://medium.com/elementaryos/the-need-for-a-freedesktop-dark-style-preference-614f501ae4ca)
