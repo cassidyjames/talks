@@ -14,7 +14,10 @@
    sodipodi:docname="android-robot.svg"
    width="425.819"
    height="500"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   inkscape:export-filename="/home/cassidyjames/Projects/cassidyjames/talks/fdo-dark-style/resources/android-robot.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <metadata
      id="metadata33">
     <rdf:RDF>
@@ -23,7 +26,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -48,7 +51,7 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:zoom="0.96740406"
-     inkscape:cx="818.9254"
+     inkscape:cx="644.74792"
      inkscape:cy="-11.208553"
      inkscape:window-x="0"
      inkscape:window-y="30"

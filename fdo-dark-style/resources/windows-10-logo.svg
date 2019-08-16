@@ -12,9 +12,12 @@
    version="1.1"
    id="svg14"
    sodipodi:docname="windows-10-logo.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
    width="500"
-   height="500">
+   height="500"
+   inkscape:export-filename="/home/cassidyjames/Projects/cassidyjames/talks/fdo-dark-style/resources/windows-10-logo.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <metadata
      id="metadata20">
     <rdf:RDF>
@@ -42,9 +45,9 @@
      inkscape:window-height="1377"
      id="namedview16"
      showgrid="false"
-     inkscape:zoom="10.429825"
-     inkscape:cx="4.857971"
-     inkscape:cy="20.631523"
+     inkscape:zoom="1.84375"
+     inkscape:cx="170.60861"
+     inkscape:cy="201.33184"
      inkscape:window-x="0"
      inkscape:window-y="30"
      inkscape:window-maximized="1"

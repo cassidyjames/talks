@@ -12,9 +12,12 @@
    version="1.1"
    id="svg170"
    sodipodi:docname="chrome-logo.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
    width="500"
-   height="500">
+   height="500"
+   inkscape:export-filename="/home/cassidyjames/Projects/cassidyjames/talks/fdo-dark-style/resources/chrome-logo.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <metadata
      id="metadata174">
     <rdf:RDF>
@@ -23,7 +26,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,7 +44,7 @@
      id="namedview172"
      showgrid="false"
      inkscape:zoom="1.3409091"
-     inkscape:cx="88"
+     inkscape:cx="-37.661016"
      inkscape:cy="88.000001"
      inkscape:window-x="0"
      inkscape:window-y="30"
