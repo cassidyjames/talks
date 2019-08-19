@@ -1,7 +1,7 @@
 # The Need for a FreeDesktop Dark Style Preference
 
-- [Notes](notes)
+- [Blog post](https://blog.elementary.io/the-need-for-a-freedesktop-dark-style-preference/) (basically my outline and detailed notes)
 - [Slides](slides)
-- [Original blog post](https://medium.com/elementaryos/the-need-for-a-freedesktop-dark-style-preference-614f501ae4ca)
+- [GUADEC talk](https://schedule.guadec.org/sessions/284)
 - [GUADEC BoF Session](https://wiki.gnome.org/GUADEC/2019/Hackingdays/FreeDesktopDarkStylePreferenceBoF)
 
