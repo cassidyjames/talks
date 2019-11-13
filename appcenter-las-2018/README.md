@@ -17,4 +17,7 @@
   - On-screen keyboard
   - Speech (input & output)
   - Captioning
+- elementary OS
+  - Universal Access
+  - Stylesheet contrast
 - Not features: A mindset
